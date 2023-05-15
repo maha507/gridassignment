@@ -4,7 +4,7 @@
   const data = [
       { name: "maha", email: "maha@example.com", age: "23", mobileno: "9873366463" },
       { name: "Manasa", email: "manasa@gmail.com",  age: "21",mobileno: "9876545678"},
-      {name: "giri", email: "giri@gmail.com", age:"18" , mobileno: "8766554324"},
+      {name: "girish", email: "giri@gmail.com", age:"18" , mobileno: "8766554324"},
       { name: "mahesh", email: "mahesh@example.com", age: "22", mobileno: "6873366463" },
       { name: "kavya", email: "kavya@gmail.com",  age: "21",mobileno: "9876545678"},
       {name: "ganesh", email: "ganesh@gmail.com", age:"19" , mobileno: "7766554324"},
