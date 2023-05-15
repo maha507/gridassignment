@@ -1,1 +1,2 @@
-Grind.js
+grid assesment
+install grid-svelte
